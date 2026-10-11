@@ -15,8 +15,6 @@ This repository contains the comprehensive Design Patterns Case Study for **Team
 | **Cross-Language Implementations & Benchmarks (Part 3)** | [B1/Part3/](B1/Part3/) |
 | **Canonical Datasets & Raw Evidence Logs** | [B1/data/](B1/data/) |
 | **Restaurant POS Full-Stack Integration Overlay** | [B1/restaurant_integration/](B1/restaurant_integration/) |
-| **Automated Validation Workflow** | [.github/workflows/b1-validate.yml](.github/workflows/b1-validate.yml) |
-
 ---
 
 ## Scope and Evidence
